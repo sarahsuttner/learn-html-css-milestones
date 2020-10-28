@@ -283,10 +283,10 @@ You should be able to...
 
 ### Publish HTML/CSS to the web
 
-- [ ] Use [Github Pages](https://docs.github.com/en/github/working-with-github-pages) to publish this project to the web
-- [ ] Validate your [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
-- [ ] ✏️ Replace this: **[https://github.com/*username*/learn-html-css-milestones](https://github.com/*username*/learn-html-css-milestones)** with your Github.com/repository url.
-- [ ] ✏️ Replace this: **[https://*username*.github.io/learn-html-css-milestones](https://*username*.github.io/learn-html-css-milestones)** with your repo's Github Page url.
+- [x] Use [Github Pages](https://docs.github.com/en/github/working-with-github-pages) to publish this project to the web
+- [x] Validate your [HTML](https://validator.w3.org/) and [CSS](https://jigsaw.w3.org/css-validator/)
+- [] ✏️ Replace this: **[https://github.com/sarahsuttner/learn-html-css-milestones](https://github.com/sarahsuttner/learn-html-css-milestones)** with your Github.com/repository url.
+- [ ] ✏️ Replace this: **[https://sarahsuttner.github.io/learn-html-css-milestones](https://sarahsuttner.github.io/learn-html-css-milestones)** with your repo's Github Page url.
 
 
 
