@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Basic CSS</title>
+  <style>
+    body {background-color:powderblue;}
+    h1 {color:midnightblue, font-size: 400rem}
+    h2 {color:darkblue; letter-spacing: 5px; margin-left: 20px}
+    p {color: steelblue; font-family: Helvetica; line-height: 160%; padding-left: 100px}
+
+    .redtext {
+      color: red;}
+
+    #yellowtext {
+      color: yellow
+    }
+
+    div p {
+  background-color: pink;
+}
+
+div > p {
+  background-color: pink;
+}
+  </style>
+  </head>
+  <body>
+
+    <h1>Basic CSS</h1>
+    <h2>CSS styles offer a variety of ways in which you can alter the appearance of your web page</h2>
+    <p>This paragraph, for example, is in the font family of Helvetica, and it has a designated line height and color. It also has a padding left parameter of
+      100px.The first header, at the top of the page, has a specific font size implemented into it. The
+    secondary header, however, has a left margin value and a letter spacing quality.</p>
+    <h3 class = "redtext">This is text that is defined by a class selector.</h3>
+    <h4 id = "yellowtext">This is text that is defined by an id selector.</h4>
+
+    <div>
+      <p>The descendant selector matches all elements that are descendants of a specified element. This is an example of one specified with a pink background.</p>
+
+      <div>
+        <p>The child selector selects all elements that are the children of a specified element. This is an example of one specified with a pink background.</p>
+
+  </body>
+</html>
